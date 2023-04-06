@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680774765 source:c:\users\user\documents\downloads\inclass-6\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<chrono>
+
