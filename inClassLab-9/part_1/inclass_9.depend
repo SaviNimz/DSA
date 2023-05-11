@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683793075 source:c:\users\user\documents\downloads\inclass_9\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+

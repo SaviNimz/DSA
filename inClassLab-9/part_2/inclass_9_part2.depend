@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683794826 source:c:\users\user\documents\downloads\inclass_9_part2\main.cpp
+	<iostream>
+	"linkedlist.cpp"
+
+1683622966 c:\users\user\documents\downloads\inclass_9_part2\linkedlist.cpp
+	<iostream>
+
